@@ -1,0 +1,158 @@
+body {
+    font-size: 12px;
+    box-sizing: border-box;
+}
+
+
+#nav {
+    display: flex;
+    font-size: 2em;
+    justify-content: space-around;
+    background-color: blue;
+}
+
+#nav_el1, #nav_el2, #nav_el3  {
+    border: 1px solid black;
+    border-radius: 30%;
+    background-color: aqua;
+}
+
+#nav_el1 {
+    margin-left: 7em;
+}
+
+#nav_el3 {
+    margin-right: 7em;
+}
+
+#nav_el1:hover {
+    background-color: blueviolet;
+}
+
+#nav_el2:hover {
+    background-color: blueviolet;
+}
+
+#nav_el3:hover {
+    background-color: blueviolet;
+}
+
+#content_div1 {
+    height: 95vh;
+    background-color: yellow;
+    font-size: 5em;
+}
+
+#content_div2 {
+    height: 95vh;
+    display: none;
+    background-color: green;
+    font-size: 5em;
+}
+
+#content_div3 {
+    height: 95vh;
+    display: none;
+    background-color: red;
+    font-size: 5em;
+}
+
+
+
+/* druga stranica */
+
+
+#nav_button {
+    width: 10vw;
+    padding: 1em 0 1em 3em;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 1.5em;
+}
+
+
+#nav_2 {
+    display: none;
+
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 13vw;
+    padding: 0.3em 0.3em 0.3em 1em;
+}
+
+
+#nav_el1_2, #nav_el2_2, #nav_el3_2, #nav_el4_2, #nav_el5_2 {
+    background-color: rgba(0, 0, 0, 0.4);
+    margin-bottom: 0.3em;
+    padding: 0.3em 0 0.3em 3em;
+}
+
+#nav_el6_2 {
+    background-color: rgba(0, 0, 0, 0.4);
+    margin-bottom: 0.3em;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+#content_div1_2 {
+    height: 95vh;
+    background-color: yellow;
+    font-size: 5em;
+}
+
+#content_div2_2 {
+    height: 95vh;
+    display: none;
+    background-color: green;
+    font-size: 5em;
+}
+
+#content_div3_2 {
+    height: 95vh;
+    display: none;
+    background-color: red;
+    font-size: 5em;
+}
+
+#content_div4_2 {
+    height: 95vh;
+    display: none;
+    background-color: brown;
+    font-size: 5em;
+}
+
+#content_div5_2 {
+    height: 95vh;
+    display: none;
+    background-color: peru;
+    font-size: 5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
